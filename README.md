@@ -26,7 +26,13 @@
 
 - <b>Portfolio : Google Cybersecurity Professional Certificate</b>
   - [Google : Cybersecurity Portfolio](https://github.com/imanhafizuddin/Google-Cybersecurity-Cert-Portfolio/tree/main))
+ 
+<h2>🎖️ Certifications </h2>
 
+- <b>Google Cybersecurity Professional Certificied</b>
+    - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7D4KBWZV5R9D)
+
+      
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
