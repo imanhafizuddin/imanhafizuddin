@@ -15,7 +15,7 @@
 
  🔭 I’m currently working on **Palo Alto Networks Cybersecurity Professional Certificate**
 
- 📫 How to reach me: **imanhafizuddin@gmail.com**
+ 📫 Reach me: **imanhafizuddin@gmail.com**
  
 
  </div>
@@ -25,9 +25,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Portfolio : Google Cybersecurity Professional Certificate</b>
-  - [Google : Cybersecurity Portfolio](https://github.com/imanhafizuddin/Google-Cybersecurity-Cert-Portfolio/tree/main))
+  - [(Google : Cybersecurity Portfolio](https://github.com/imanhafizuddin/Google-Cybersecurity-Cert-Portfolio/tree/main))
  
-<h2>🎖️ Certifications </h2>
+<h2>🎖️ Certifications: </h2>
 
 - <b>Google Cybersecurity Professional Certificied</b>
     - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7D4KBWZV5R9D)
