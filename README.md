@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Iman+Hafizuddin!;" />
 </h1>
 
-<img align="center" alt="Coding" width="1000" src="https://images.squarespace-cdn.com/content/v1/6059ef5d59f1411908292205/4370a25e-b47d-4647-a0fa-36fce5eb5ea5/Hacking-Cybersecurity.gif">
 
 <h3 align="center">A passionate Network & Cybersecurity Graduate 🎓</h3>
 
