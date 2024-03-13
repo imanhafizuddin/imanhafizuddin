@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🏫 I’m currently continuing studies in **Bachelor of Information Technology in Computer System Security**
+ 🏫 I’m currently continuing studies in **Bachelor of Computer Science in Computer Network & Security**
  
  👾 I’m currently improve my skills on **Cybersecurity & Network Security**
 
